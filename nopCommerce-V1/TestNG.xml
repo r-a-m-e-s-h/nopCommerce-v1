@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name=" NopCommerce Automation Suite ">
+<test name=" Test Suite">
+
+<classes>
+
+<class name="TestCases.Login_TC" />
+
+<class name="TestCases.catalog_TC002" />
+
+</classes>
+
+</test>
+
+
+</suite>
